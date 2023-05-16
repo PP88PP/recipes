@@ -1,2 +1,5 @@
 A simple wrapper of Sockets API in C++11, supports blocking IO only.
 TPC stands for thread-per-connection, which is the current model for blocking IO.
+
+tcpperf-土制的单连接版iperf
+Dependencies: make gcc g++ libboost-dev libboost-program-options-dev
